@@ -1,0 +1,318 @@
+@media (min-width:320px) and (max-width:575px){
+    .header_part {  
+        display: none;
+    }
+    nav .nav_menu {    
+        display: none;
+    }
+
+    nav .nav_link {
+        width: 54%;       
+    }
+    nav .nav_link a {
+        padding: 16PX 17px;        
+    }
+
+    nav .nav_logo .img img {
+        width: 179%;       
+        margin-top: 7px;
+    }
+
+    #banner_part .banner .img .overlay .details span {       
+        color: #fff;  
+        margin-top: -291px;
+        display: block;
+    }
+
+    #banner_part .banner .img .overlay .details h2 {     
+        font-size: 36px;     
+        width: 192px;
+        line-height: 49px;
+        color: #fff;
+        margin-top: 4px;
+    }
+
+    #banner_part .banner .img .overlay .details a {     
+        margin-top: 19px;        
+    }
+
+    #banner_part .banner .img .overlay .details .btn {       
+        display: none;
+    }
+
+    #banner_part .banner {
+        height: 14px;       
+    }
+
+    #about_part .item_text h3 {      
+        font-size: 29px;      
+        width: 230px;
+        line-height: 43px;
+        margin-top: 20px;
+    }
+
+    #about_part .item_text p {        
+        width: 280px;       
+    }
+
+    #about_part .item_text .img_item {
+        width: 251%;
+        height: 190px;
+        border-radius: 10px;
+    }
+
+    #about_part .item_text .img_item .text p {     
+        font-size: 16px;       
+        width: 127px;      
+        line-height: 29px;
+        margin-left: 48px;
+        color: #fff;
+    }
+
+    #about_part .item_img .img img {
+        width: 162%;
+        margin-top: 726px;
+        margin-left: -112px;
+    }
+
+    #service_part {       
+        height: 841px;        
+    }
+
+    #service_part .main {       
+        flex-wrap: wrap;
+    }
+
+    #service_part .item {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    #service_part .item .img img {
+        width: 100%;
+        object-fit: cover;
+        height: 276px;
+    }
+
+    #coffee_part .title {
+        text-align: left;      
+    }
+
+    #coffee_part .title h3 {    
+        font-size: 36px;       
+    }
+
+    #coffee_part .details .main {       
+        flex-wrap: wrap;
+    }
+
+    #coffee_part .details .details_one {
+        width: 100%; 
+    }
+
+    #coffee_part .details .details_one .item .img {
+        width: 30%;
+        height: 109px;      
+    }
+
+    #coffee_part .details .details_one .item .text {  
+        margin-top: -44px;
+    }
+
+    #coffee_part .details .details_one .item {       
+        margin-left: -35px;
+    }
+
+    #coffee_part .details .details_one .item .text .price h4 {       
+        padding-left: 143px;        
+    }
+
+    #choose_part .main {       
+        flex-wrap: wrap;
+    }
+
+    #choose_part .img_item {
+        width: 100%;       
+    }
+
+    #choose_part .img_item {
+        width: 100%;
+        margin-left: -28px;
+    }
+
+    #choose_part .img_item .img img {
+        width: 129%;
+        height: 300px;     
+    }
+
+    #choose_part .text_item {
+        width: 100%;      
+        text-align: left;
+        margin-left: -27px;
+    }
+
+    #choose_part .text_item span {        
+        width: 135px;
+    }
+
+    #choose_part .text_item h3 {
+        font-size: 33px;
+        width: 282px;
+        line-height: 45px;
+    }
+
+    #choose_part .text_item p {       
+        width: 262px;      
+    }
+
+    #choose_part .text_item .details_item .item_one .img {
+        width: 30%;        
+    }
+
+    #choose_part .text_item .details_item .item_one .img img {
+        width: 100%;
+        height: 36%;
+    }
+
+    #choose_part .text_item .details_item .item_one .text {
+        width: 60%;
+    }
+
+    #choose_part .text_item .details_item .item_one .text h5 {      
+        width: 170px;
+    }
+
+    #choose_part .text_item .details_item .item_one .text p {      
+        width: 158px;     
+    }
+
+    #grid_part {     
+        height: 694px;
+    }
+
+    #number_part .main {     
+        flex-wrap: wrap;
+    }
+
+    #number_part .item {
+        width: 100%;
+    }
+
+    #testimonial_part .title {
+        text-align: left;
+    }
+
+    #testimonial_part .title h3 {    
+        font-size: 33px;    
+        margin-bottom: 42px;
+    }
+
+
+    #number_part .item {    
+        margin-bottom: 70px;
+    }
+
+    #number_part .item .number_count {
+        width: 20%;
+    }
+
+    #number_part .item .number_count span {  
+        font-size: 50px;        
+    }
+
+    #number_part .item .number_text {
+        width: 60%;
+    }
+
+    #number_part .item .number_text h5 {       
+        margin-top: 8px;
+        width: 130px;
+    }
+
+    #number_part .item .number_text strong {        
+        width: 130px;
+        line-height: 26px;
+    }
+
+    #blog_part .details .main {     
+        flex-wrap: wrap;
+    }
+
+    #blog_part .details .item {
+        width: 100%;   
+        margin-bottom: 50px;     
+    }
+
+    #blog_part .details .item .img .overlay .text {
+        padding: 168px 30px;
+    }
+
+    #blog_part .details .item .img .overlay .text h5 {    
+        width: 187px;      
+    }
+
+    #need_part .main {       
+        flex-wrap: wrap;
+    }
+
+    #need_part .item_one {
+        width: 100%;        
+    }
+
+    #need_part .item_one span {     
+        color: #f78b34;
+        width: 209px;
+        display: inline-block;
+        line-height: 26px;
+    }
+
+    #need_part .item_one h3 {      
+        font-size: 35px;  
+        line-height: 43px;
+    }
+
+    #need_part .item_two {
+        width: 100%;        
+        margin-top: 35px;
+        text-align: left;
+    }
+
+    #need_part .item_two a {     
+        padding: 17px 38px;       
+    }
+
+    footer .main {     
+        flex-wrap: wrap;
+    }
+
+    footer .item_one {
+        width: 100%;      
+    }
+
+    footer .item_two {
+        width: 100%;        
+    }
+
+    footer .item_two h5 {      
+        margin-bottom: -18px;
+        margin-top: 30px;
+    }
+
+    footer .item_three {
+        width: 100%;        
+    }
+
+    footer .item_three h5 {      
+        margin-top: 40px;
+        margin-bottom: -19px;
+    }
+
+    footer .item_four {
+        width: 100%;       
+    }
+
+    footer .item_four h5 {      
+        margin-top: 71px;
+        margin-bottom: -23px;
+    }
+}
